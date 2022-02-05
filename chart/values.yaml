@@ -5,7 +5,7 @@
 
 application:
   author: techpark
-  name: sampleapi #Aadhar Vault Manager
+  name: sampleapi 
   type: api
 
 replicaCount: 1
