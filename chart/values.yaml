@@ -3,6 +3,11 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
+application:
+  author: techpark
+  name: sampleapi #Aadhar Vault Manager
+  type: api
+
 replicaCount: 1
 
 image:
